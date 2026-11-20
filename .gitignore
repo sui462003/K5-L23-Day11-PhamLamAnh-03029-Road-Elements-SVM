@@ -6,4 +6,6 @@ coach_gt/
 submissions/
 out/
 *.zip
+!phamlamanh-front.zip
+!phamlamanh-fisheye.zip
 .env
